@@ -1,0 +1,274 @@
+C:/Users/vivia/Documents/cleo2/Cleopatra/cleopatra_hdl/src/cleo_tb_hold.vhd {1 {vcom -work work -2002 -explicit C:/Users/vivia/Documents/cleo2/Cleopatra/cleopatra_hdl/src/cleo_tb_hold.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+Start time: 16:33:07 on Feb 25,2021
+vcom -reportprogress 300 -work work -2002 -explicit C:/Users/vivia/Documents/cleo2/Cleopatra/cleopatra_hdl/src/cleo_tb_hold.vhd 
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Loading package cleo
+-- Compiling entity tb_hold
+-- Compiling architecture tb_hold of tb_hold
+-- Loading entity cleopatra
+** Warning: C:/Users/vivia/Documents/cleo2/Cleopatra/cleopatra_hdl/src/cleo_tb_hold.vhd(37): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: C:/Users/vivia/Documents/cleo2/Cleopatra/cleopatra_hdl/src/cleo_tb_hold.vhd(41): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: C:/Users/vivia/Documents/cleo2/Cleopatra/cleopatra_hdl/src/cleo_tb_hold.vhd(42): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: C:/Users/vivia/Documents/cleo2/Cleopatra/cleopatra_hdl/src/cleo_tb_hold.vhd(46): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: C:/Users/vivia/Documents/cleo2/Cleopatra/cleopatra_hdl/src/cleo_tb_hold.vhd(46): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: C:/Users/vivia/Documents/cleo2/Cleopatra/cleopatra_hdl/src/cleo_tb_hold.vhd(47): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: C:/Users/vivia/Documents/cleo2/Cleopatra/cleopatra_hdl/src/cleo_tb_hold.vhd(47): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: C:/Users/vivia/Documents/cleo2/Cleopatra/cleopatra_hdl/src/cleo_tb_hold.vhd(48): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: C:/Users/vivia/Documents/cleo2/Cleopatra/cleopatra_hdl/src/cleo_tb_hold.vhd(48): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: C:/Users/vivia/Documents/cleo2/Cleopatra/cleopatra_hdl/src/cleo_tb_hold.vhd(49): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: C:/Users/vivia/Documents/cleo2/Cleopatra/cleopatra_hdl/src/cleo_tb_hold.vhd(49): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: C:/Users/vivia/Documents/cleo2/Cleopatra/cleopatra_hdl/src/cleo_tb_hold.vhd(50): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: C:/Users/vivia/Documents/cleo2/Cleopatra/cleopatra_hdl/src/cleo_tb_hold.vhd(50): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: C:/Users/vivia/Documents/cleo2/Cleopatra/cleopatra_hdl/src/cleo_tb_hold.vhd(51): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: C:/Users/vivia/Documents/cleo2/Cleopatra/cleopatra_hdl/src/cleo_tb_hold.vhd(51): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: C:/Users/vivia/Documents/cleo2/Cleopatra/cleopatra_hdl/src/cleo_tb_hold.vhd(152): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: C:/Users/vivia/Documents/cleo2/Cleopatra/cleopatra_hdl/src/cleo_tb_hold.vhd(174): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+End time: 16:33:07 on Feb 25,2021, Elapsed time: 0:00:00
+Errors: 0, Warnings: 17
+
+} {} {}} C:/Users/vivia/Documents/cleo2/Cleopatra/cleopatra_hdl/src/reg.vhd {1 {vcom -work work -2002 -explicit C:/Users/vivia/Documents/cleo2/Cleopatra/cleopatra_hdl/src/reg.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+Start time: 16:33:05 on Feb 25,2021
+vcom -reportprogress 300 -work work -2002 -explicit C:/Users/vivia/Documents/cleo2/Cleopatra/cleopatra_hdl/src/reg.vhd 
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package cleo
+-- Compiling entity reg_clear
+-- Compiling architecture reg_clear of reg_clear
+End time: 16:33:05 on Feb 25,2021, Elapsed time: 0:00:00
+Errors: 0, Warnings: 0
+
+} {} {}} C:/Users/vivia/Documents/cleo2/Cleopatra/cleopatra_hdl/src/datapath.vhd {1 {vcom -work work -2002 -explicit C:/Users/vivia/Documents/cleo2/Cleopatra/cleopatra_hdl/src/datapath.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+Start time: 16:33:07 on Feb 25,2021
+vcom -reportprogress 300 -work work -2002 -explicit C:/Users/vivia/Documents/cleo2/Cleopatra/cleopatra_hdl/src/datapath.vhd 
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package cleo
+-- Compiling entity datapath
+-- Compiling architecture datapath of datapath
+-- Loading entity reg_clear
+-- Loading entity write_decoder
+-- Loading entity read_decoder
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Loading entity alu
+-- Loading entity status_flags
+End time: 16:33:08 on Feb 25,2021, Elapsed time: 0:00:01
+Errors: 0, Warnings: 0
+
+} {} {}} C:/Users/vivia/Documents/cleo2/Cleopatra/cleopatra_hdl/src/control_unit.vhd {1 {vcom -work work -2002 -explicit C:/Users/vivia/Documents/cleo2/Cleopatra/cleopatra_hdl/src/control_unit.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+Start time: 16:33:04 on Feb 25,2021
+vcom -reportprogress 300 -work work -2002 -explicit C:/Users/vivia/Documents/cleo2/Cleopatra/cleopatra_hdl/src/control_unit.vhd 
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package cleo
+-- Compiling entity control
+-- Compiling architecture control of control
+End time: 16:33:05 on Feb 25,2021, Elapsed time: 0:00:01
+Errors: 0, Warnings: 0
+
+} {} {}} C:/Users/vivia/Documents/cleo2/Cleopatra/cleopatra_hdl/src/status_flags.vhd {1 {vcom -work work -2002 -explicit C:/Users/vivia/Documents/cleo2/Cleopatra/cleopatra_hdl/src/status_flags.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+Start time: 16:33:05 on Feb 25,2021
+vcom -reportprogress 300 -work work -2002 -explicit C:/Users/vivia/Documents/cleo2/Cleopatra/cleopatra_hdl/src/status_flags.vhd 
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package cleo
+-- Compiling entity status_flags
+-- Compiling architecture status_flags of status_flags
+End time: 16:33:05 on Feb 25,2021, Elapsed time: 0:00:00
+Errors: 0, Warnings: 0
+
+} {} {}} C:/Users/vivia/Documents/cleo2/Cleopatra/cleopatra_hdl/src/TestBench/reg_clear_TB.vhd {1 {vcom -work work -2002 -explicit C:/Users/vivia/Documents/cleo2/Cleopatra/cleopatra_hdl/src/TestBench/reg_clear_TB.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+Start time: 16:33:07 on Feb 25,2021
+vcom -reportprogress 300 -work work -2002 -explicit C:/Users/vivia/Documents/cleo2/Cleopatra/cleopatra_hdl/src/TestBench/reg_clear_TB.vhd 
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package cleo
+-- Compiling entity reg_clear_tb
+-- Compiling architecture TB_ARCHITECTURE of reg_clear_tb
+** Warning: C:/Users/vivia/Documents/cleo2/Cleopatra/cleopatra_hdl/src/TestBench/reg_clear_TB.vhd(63): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: C:/Users/vivia/Documents/cleo2/Cleopatra/cleopatra_hdl/src/TestBench/reg_clear_TB.vhd(66): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: C:/Users/vivia/Documents/cleo2/Cleopatra/cleopatra_hdl/src/TestBench/reg_clear_TB.vhd(67): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: C:/Users/vivia/Documents/cleo2/Cleopatra/cleopatra_hdl/src/TestBench/reg_clear_TB.vhd(70): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: C:/Users/vivia/Documents/cleo2/Cleopatra/cleopatra_hdl/src/TestBench/reg_clear_TB.vhd(72): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: C:/Users/vivia/Documents/cleo2/Cleopatra/cleopatra_hdl/src/TestBench/reg_clear_TB.vhd(72): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+-- Compiling configuration TESTBENCH_FOR_reg_clear
+-- Loading entity reg_clear_tb
+-- Loading architecture TB_ARCHITECTURE of reg_clear_tb
+-- Loading entity reg_clear
+End time: 16:33:07 on Feb 25,2021, Elapsed time: 0:00:00
+Errors: 0, Warnings: 6
+
+} {} {}} C:/Users/vivia/Documents/cleo2/Cleopatra/cleopatra_hdl/src/read_decoder.vhd {1 {vcom -work work -2002 -explicit C:/Users/vivia/Documents/cleo2/Cleopatra/cleopatra_hdl/src/read_decoder.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+Start time: 16:33:05 on Feb 25,2021
+vcom -reportprogress 300 -work work -2002 -explicit C:/Users/vivia/Documents/cleo2/Cleopatra/cleopatra_hdl/src/read_decoder.vhd 
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package cleo
+-- Compiling entity read_decoder
+-- Compiling architecture read_decoder of read_decoder
+End time: 16:33:05 on Feb 25,2021, Elapsed time: 0:00:00
+Errors: 0, Warnings: 0
+
+} {} {}} C:/Users/vivia/Documents/cleo2/Cleopatra/cleopatra_hdl/src/cleopatra.vhd {1 {vcom -work work -2002 -explicit C:/Users/vivia/Documents/cleo2/Cleopatra/cleopatra_hdl/src/cleopatra.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+Start time: 16:33:06 on Feb 25,2021
+vcom -reportprogress 300 -work work -2002 -explicit C:/Users/vivia/Documents/cleo2/Cleopatra/cleopatra_hdl/src/cleopatra.vhd 
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package cleo
+-- Compiling entity cleopatra
+-- Compiling architecture cleopatra of cleopatra
+-- Loading entity datapath
+-- Loading entity control
+End time: 16:33:06 on Feb 25,2021, Elapsed time: 0:00:00
+Errors: 0, Warnings: 0
+
+} {} {}} C:/Users/vivia/Documents/cleo2/Cleopatra/cleopatra_hdl/src/TestBench/alu_TB.vhd {1 {vcom -work work -2002 -explicit C:/Users/vivia/Documents/cleo2/Cleopatra/cleopatra_hdl/src/TestBench/alu_TB.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+Start time: 16:33:08 on Feb 25,2021
+vcom -reportprogress 300 -work work -2002 -explicit C:/Users/vivia/Documents/cleo2/Cleopatra/cleopatra_hdl/src/TestBench/alu_TB.vhd 
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package cleo
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity alu_tb
+-- Compiling architecture TB_ARCHITECTURE of alu_tb
+** Warning: C:/Users/vivia/Documents/cleo2/Cleopatra/cleopatra_hdl/src/TestBench/alu_TB.vhd(76): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+-- Compiling configuration TESTBENCH_FOR_alu
+-- Loading entity alu_tb
+-- Loading architecture TB_ARCHITECTURE of alu_tb
+-- Loading entity alu
+End time: 16:33:08 on Feb 25,2021, Elapsed time: 0:00:00
+Errors: 0, Warnings: 1
+
+} {} {}} C:/Users/vivia/Documents/cleo2/Cleopatra/cleopatra_hdl/src/cleo_tb.vhd {1 {vcom -work work -2002 -explicit C:/Users/vivia/Documents/cleo2/Cleopatra/cleopatra_hdl/src/cleo_tb.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+Start time: 16:33:06 on Feb 25,2021
+vcom -reportprogress 300 -work work -2002 -explicit C:/Users/vivia/Documents/cleo2/Cleopatra/cleopatra_hdl/src/cleo_tb.vhd 
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Loading package cleo
+-- Compiling entity tb
+-- Compiling architecture tb of tb
+-- Loading entity cleopatra
+** Warning: C:/Users/vivia/Documents/cleo2/Cleopatra/cleopatra_hdl/src/cleo_tb.vhd(51): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: C:/Users/vivia/Documents/cleo2/Cleopatra/cleopatra_hdl/src/cleo_tb.vhd(51): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: C:/Users/vivia/Documents/cleo2/Cleopatra/cleopatra_hdl/src/cleo_tb.vhd(51): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: C:/Users/vivia/Documents/cleo2/Cleopatra/cleopatra_hdl/src/cleo_tb.vhd(55): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: C:/Users/vivia/Documents/cleo2/Cleopatra/cleopatra_hdl/src/cleo_tb.vhd(56): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: C:/Users/vivia/Documents/cleo2/Cleopatra/cleopatra_hdl/src/cleo_tb.vhd(161): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: C:/Users/vivia/Documents/cleo2/Cleopatra/cleopatra_hdl/src/cleo_tb.vhd(183): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+End time: 16:33:06 on Feb 25,2021, Elapsed time: 0:00:00
+Errors: 0, Warnings: 7
+
+} {} {}} C:/Users/vivia/Documents/cleo2/Cleopatra/cleopatra_hdl/src/cleo_pck.vhd {1 {vcom -work work -2002 -explicit C:/Users/vivia/Documents/cleo2/Cleopatra/cleopatra_hdl/src/cleo_pck.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+Start time: 16:33:03 on Feb 25,2021
+vcom -reportprogress 300 -work work -2002 -explicit C:/Users/vivia/Documents/cleo2/Cleopatra/cleopatra_hdl/src/cleo_pck.vhd 
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling package cleo
+End time: 16:33:04 on Feb 25,2021, Elapsed time: 0:00:01
+Errors: 0, Warnings: 0
+
+} {} {}} C:/Users/vivia/Documents/cleo2/Cleopatra/cleopatra_hdl/src/write_decoder.vhd {1 {vcom -work work -2002 -explicit C:/Users/vivia/Documents/cleo2/Cleopatra/cleopatra_hdl/src/write_decoder.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+Start time: 16:33:05 on Feb 25,2021
+vcom -reportprogress 300 -work work -2002 -explicit C:/Users/vivia/Documents/cleo2/Cleopatra/cleopatra_hdl/src/write_decoder.vhd 
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package cleo
+-- Compiling entity write_decoder
+-- Compiling architecture write_decoder of write_decoder
+End time: 16:33:06 on Feb 25,2021, Elapsed time: 0:00:01
+Errors: 0, Warnings: 0
+
+} {} {}} C:/Users/vivia/Documents/cleo2/Cleopatra/cleopatra_hdl/src/alu.vhd {1 {vcom -work work -2002 -explicit C:/Users/vivia/Documents/cleo2/Cleopatra/cleopatra_hdl/src/alu.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+Start time: 16:33:07 on Feb 25,2021
+vcom -reportprogress 300 -work work -2002 -explicit C:/Users/vivia/Documents/cleo2/Cleopatra/cleopatra_hdl/src/alu.vhd 
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Loading package cleo
+-- Compiling entity alu
+-- Compiling architecture alu of alu
+End time: 16:33:07 on Feb 25,2021, Elapsed time: 0:00:00
+Errors: 0, Warnings: 0
+
+} {} {}} C:/Users/vivia/Documents/cleo2/Cleopatra/cleopatra_hdl/src/TestBench/datapath_TB.vhd {1 {vcom -work work -2002 -explicit C:/Users/vivia/Documents/cleo2/Cleopatra/cleopatra_hdl/src/TestBench/datapath_TB.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+Start time: 16:33:07 on Feb 25,2021
+vcom -reportprogress 300 -work work -2002 -explicit C:/Users/vivia/Documents/cleo2/Cleopatra/cleopatra_hdl/src/TestBench/datapath_TB.vhd 
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package cleo
+-- Compiling entity datapath_tb
+-- Compiling architecture TB_ARCHITECTURE of datapath_tb
+** Warning: C:/Users/vivia/Documents/cleo2/Cleopatra/cleopatra_hdl/src/TestBench/datapath_TB.vhd(84): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: C:/Users/vivia/Documents/cleo2/Cleopatra/cleopatra_hdl/src/TestBench/datapath_TB.vhd(88): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: C:/Users/vivia/Documents/cleo2/Cleopatra/cleopatra_hdl/src/TestBench/datapath_TB.vhd(89): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: C:/Users/vivia/Documents/cleo2/Cleopatra/cleopatra_hdl/src/TestBench/datapath_TB.vhd(96): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: C:/Users/vivia/Documents/cleo2/Cleopatra/cleopatra_hdl/src/TestBench/datapath_TB.vhd(97): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: C:/Users/vivia/Documents/cleo2/Cleopatra/cleopatra_hdl/src/TestBench/datapath_TB.vhd(98): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: C:/Users/vivia/Documents/cleo2/Cleopatra/cleopatra_hdl/src/TestBench/datapath_TB.vhd(99): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: C:/Users/vivia/Documents/cleo2/Cleopatra/cleopatra_hdl/src/TestBench/datapath_TB.vhd(100): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: C:/Users/vivia/Documents/cleo2/Cleopatra/cleopatra_hdl/src/TestBench/datapath_TB.vhd(102): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: C:/Users/vivia/Documents/cleo2/Cleopatra/cleopatra_hdl/src/TestBench/datapath_TB.vhd(102): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+-- Compiling configuration TESTBENCH_FOR_datapath
+-- Loading entity datapath_tb
+-- Loading architecture TB_ARCHITECTURE of datapath_tb
+-- Loading entity datapath
+End time: 16:33:07 on Feb 25,2021, Elapsed time: 0:00:00
+Errors: 0, Warnings: 10
+
+} {} {}} C:/Users/vivia/Documents/cleo2/Cleopatra/cleopatra_hdl/src/TestBench/control_TB.vhd {1 {vcom -work work -2002 -explicit C:/Users/vivia/Documents/cleo2/Cleopatra/cleopatra_hdl/src/TestBench/control_TB.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+Start time: 16:33:06 on Feb 25,2021
+vcom -reportprogress 300 -work work -2002 -explicit C:/Users/vivia/Documents/cleo2/Cleopatra/cleopatra_hdl/src/TestBench/control_TB.vhd 
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package cleo
+-- Compiling entity control_tb
+-- Compiling architecture TB_ARCHITECTURE of control_tb
+** Warning: C:/Users/vivia/Documents/cleo2/Cleopatra/cleopatra_hdl/src/TestBench/control_TB.vhd(78): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: C:/Users/vivia/Documents/cleo2/Cleopatra/cleopatra_hdl/src/TestBench/control_TB.vhd(82): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: C:/Users/vivia/Documents/cleo2/Cleopatra/cleopatra_hdl/src/TestBench/control_TB.vhd(83): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: C:/Users/vivia/Documents/cleo2/Cleopatra/cleopatra_hdl/src/TestBench/control_TB.vhd(88): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+-- Compiling configuration TESTBENCH_FOR_control
+-- Loading entity control_tb
+-- Loading architecture TB_ARCHITECTURE of control_tb
+-- Loading entity control
+End time: 16:33:06 on Feb 25,2021, Elapsed time: 0:00:00
+Errors: 0, Warnings: 4
+
+} {} {}}

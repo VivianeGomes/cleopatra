@@ -1,0 +1,742 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/vivia/Documents/SISTEMAS
+Ealu
+Z0 w1112725310
+Z1 DPx4 work 4 cleo 0 22 O2l3a<JjaL8bbo;j>KEX61
+Z2 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+Z3 DPx4 ieee 18 std_logic_unsigned 0 22 ;eZjO2D4ZDz<]0>8AL<ne1
+Z4 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z5 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z6 dC:/Users/vivia/Documents/cleo2/Cleopatra/cleopatra_hdl/src
+Z7 8C:/Users/vivia/Documents/cleo2/Cleopatra/cleopatra_hdl/src/alu.vhd
+Z8 FC:/Users/vivia/Documents/cleo2/Cleopatra/cleopatra_hdl/src/alu.vhd
+l0
+L13
+VN=eff>8W<?<ahT^kajWMo1
+!s100 @D]M4OGenDRobJnelQj9g2
+Z9 OP;C;10.4a;61
+32
+Z10 !s110 1615336262
+!i10b 1
+Z11 !s108 1615336262.000000
+Z12 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/vivia/Documents/cleo2/Cleopatra/cleopatra_hdl/src/alu.vhd|
+Z13 !s107 C:/Users/vivia/Documents/cleo2/Cleopatra/cleopatra_hdl/src/alu.vhd|
+!i113 1
+Z14 o-work work -2002 -explicit -O0
+Z15 tExplicit 1
+Aalu
+R1
+R2
+R3
+R4
+R5
+Z16 DEx4 work 3 alu 0 22 N=eff>8W<?<ahT^kajWMo1
+l23
+L18
+VRnVRI54G=9kJQbTC6fIb`0
+!s100 `ZENUSZWOgf8D0Z<ZVW<h3
+R9
+32
+R10
+!i10b 1
+R11
+R12
+R13
+!i113 1
+R14
+R15
+Ealu_tb
+Z17 w1112725406
+R2
+R3
+R4
+R5
+R1
+R6
+Z18 8C:/Users/vivia/Documents/cleo2/Cleopatra/cleopatra_hdl/src/TestBench/alu_TB.vhd
+Z19 FC:/Users/vivia/Documents/cleo2/Cleopatra/cleopatra_hdl/src/TestBench/alu_TB.vhd
+l0
+L28
+VnS07XDIZ^fC]Rhl^7nAWR1
+!s100 =jIWNgQ1of8SUdK9RKNH42
+R9
+32
+Z20 !s110 1614295613
+!i10b 1
+Z21 !s108 1614295613.000000
+Z22 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/vivia/Documents/cleo2/Cleopatra/cleopatra_hdl/src/TestBench/alu_TB.vhd|
+Z23 !s107 C:/Users/vivia/Documents/cleo2/Cleopatra/cleopatra_hdl/src/TestBench/alu_TB.vhd|
+!i113 1
+R14
+R15
+Atb_architecture
+R2
+R3
+R4
+R5
+R1
+Z24 DEx4 work 6 alu_tb 0 22 nS07XDIZ^fC]Rhl^7nAWR1
+l58
+L31
+Ve2a:GIk>mc<H<OC7no4YN3
+!s100 XV`Ch7i4_O=oCOb;[;ic23
+R9
+32
+R20
+!i10b 1
+R21
+R22
+R23
+!i113 1
+R14
+R15
+Pcleo
+R4
+R5
+w1112897242
+R6
+8C:/Users/vivia/Documents/cleo2/Cleopatra/cleopatra_hdl/src/cleo_pck.vhd
+FC:/Users/vivia/Documents/cleo2/Cleopatra/cleopatra_hdl/src/cleo_pck.vhd
+l0
+L8
+VO2l3a<JjaL8bbo;j>KEX61
+!s100 7WLKB4I6]7B]i`?h>=Zz]0
+R9
+32
+Z25 !s110 1615336263
+!i10b 1
+Z26 !s108 1615336263.000000
+!s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/vivia/Documents/cleo2/Cleopatra/cleopatra_hdl/src/cleo_pck.vhd|
+!s107 C:/Users/vivia/Documents/cleo2/Cleopatra/cleopatra_hdl/src/cleo_pck.vhd|
+!i113 1
+R14
+R15
+Ecleopatra
+Z27 w1615328437
+R1
+R4
+R5
+R6
+Z28 8C:/Users/vivia/Documents/cleo2/Cleopatra/cleopatra_hdl/src/cleopatra.vhd
+Z29 FC:/Users/vivia/Documents/cleo2/Cleopatra/cleopatra_hdl/src/cleopatra.vhd
+l0
+L32
+VbR=LK>DkWi198lXRhA_[j0
+!s100 Hm;67fZ90E[;e`:OX<^8n0
+R9
+32
+R25
+!i10b 1
+R26
+Z30 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/vivia/Documents/cleo2/Cleopatra/cleopatra_hdl/src/cleopatra.vhd|
+Z31 !s107 C:/Users/vivia/Documents/cleo2/Cleopatra/cleopatra_hdl/src/cleopatra.vhd|
+!i113 1
+R14
+R15
+Acleopatra
+Z32 DEx4 work 7 control 0 22 lCn^I2>Z_YLD]F=A11Ea:2
+Z33 DEx4 work 8 datapath 0 22 kj`Z^580lJH986M[;F_3<3
+R1
+R4
+R5
+Z34 DEx4 work 9 cleopatra 0 22 bR=LK>DkWi198lXRhA_[j0
+l48
+L42
+V0c4f1G?F[KYGBDzk`Qz[D0
+!s100 Uij_ANlPmkT7@Kd]nbVdo3
+R9
+32
+R25
+!i10b 1
+R26
+R30
+R31
+!i113 1
+R14
+R15
+Econtrol
+Z35 w1113322888
+R1
+R4
+R5
+R6
+Z36 8C:/Users/vivia/Documents/cleo2/Cleopatra/cleopatra_hdl/src/control_unit.vhd
+Z37 FC:/Users/vivia/Documents/cleo2/Cleopatra/cleopatra_hdl/src/control_unit.vhd
+l0
+L16
+VlCn^I2>Z_YLD]F=A11Ea:2
+!s100 >QOm^2Jan8P[aW^TlE<Q60
+R9
+32
+R25
+!i10b 1
+R26
+Z38 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/vivia/Documents/cleo2/Cleopatra/cleopatra_hdl/src/control_unit.vhd|
+Z39 !s107 C:/Users/vivia/Documents/cleo2/Cleopatra/cleopatra_hdl/src/control_unit.vhd|
+!i113 1
+R14
+R15
+Acontrol
+R1
+R4
+R5
+R32
+l86
+L25
+VAfKS7Lhjd5I;>^LHZaJDU3
+!s100 L8^cQjeCYROXR^bLGbIi63
+R9
+32
+R25
+!i10b 1
+R26
+R38
+R39
+!i113 1
+R14
+R15
+Econtrol_tb
+Z40 w1113503384
+R4
+R5
+R1
+R6
+Z41 8C:/Users/vivia/Documents/cleo2/Cleopatra/cleopatra_hdl/src/TestBench/control_TB.vhd
+Z42 FC:/Users/vivia/Documents/cleo2/Cleopatra/cleopatra_hdl/src/TestBench/control_TB.vhd
+l0
+L27
+V7zPZZj<g<z1;elJllMnCo2
+!s100 S_3mH:COH>dQmNA[=Zb@@0
+R9
+32
+R20
+!i10b 1
+R21
+Z43 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/vivia/Documents/cleo2/Cleopatra/cleopatra_hdl/src/TestBench/control_TB.vhd|
+Z44 !s107 C:/Users/vivia/Documents/cleo2/Cleopatra/cleopatra_hdl/src/TestBench/control_TB.vhd|
+!i113 1
+R14
+R15
+Atb_architecture
+R4
+R5
+R1
+Z45 DEx4 work 10 control_tb 0 22 7zPZZj<g<z1;elJllMnCo2
+l61
+L30
+VeeNmYUF0ZL^Qa_iTj^QOZ0
+!s100 WlBk]g4GYQFH3bM5jQQf;3
+R9
+32
+R20
+!i10b 1
+R21
+R43
+R44
+!i113 1
+R14
+R15
+Edatapath
+Z46 w1092745332
+R1
+R4
+R5
+R6
+Z47 8C:/Users/vivia/Documents/cleo2/Cleopatra/cleopatra_hdl/src/datapath.vhd
+Z48 FC:/Users/vivia/Documents/cleo2/Cleopatra/cleopatra_hdl/src/datapath.vhd
+l0
+L11
+Vkj`Z^580lJH986M[;F_3<3
+!s100 gbRVcR6iF<33V?cYT0Jf@0
+R9
+32
+R25
+!i10b 1
+R26
+Z49 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/vivia/Documents/cleo2/Cleopatra/cleopatra_hdl/src/datapath.vhd|
+Z50 !s107 C:/Users/vivia/Documents/cleo2/Cleopatra/cleopatra_hdl/src/datapath.vhd|
+!i113 1
+R14
+R15
+Adatapath
+Z51 DEx4 work 12 status_flags 0 22 8A3iXZZS;;_>_d0Z^H@e82
+R2
+R3
+R16
+Z52 DEx4 work 12 read_decoder 0 22 H??WKmHZT6NHSkW5ceGHg3
+Z53 DEx4 work 13 write_decoder 0 22 7:;dez5z=jX^2V8BLW5Sf1
+Z54 DEx4 work 9 reg_clear 0 22 PV5U^5lVF`QbbZ?mj?8c`3
+R1
+R4
+R5
+R33
+l28
+L21
+VlimBEahoc4K7@7gNGhBf81
+!s100 <M04K[<1Zdj6C4iTzoEU<0
+R9
+32
+R25
+!i10b 1
+R26
+R49
+R50
+!i113 1
+R14
+R15
+Edatapath_tb
+Z55 w1112897848
+R4
+R5
+R1
+R6
+Z56 8C:/Users/vivia/Documents/cleo2/Cleopatra/cleopatra_hdl/src/TestBench/datapath_TB.vhd
+Z57 FC:/Users/vivia/Documents/cleo2/Cleopatra/cleopatra_hdl/src/TestBench/datapath_TB.vhd
+l0
+L27
+VomfRD<R_kS5:ok_NhbAHh2
+!s100 3h5V`NV8VLCZPHk;@?Wdb0
+R9
+32
+R20
+!i10b 1
+R21
+Z58 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/vivia/Documents/cleo2/Cleopatra/cleopatra_hdl/src/TestBench/datapath_TB.vhd|
+Z59 !s107 C:/Users/vivia/Documents/cleo2/Cleopatra/cleopatra_hdl/src/TestBench/datapath_TB.vhd|
+!i113 1
+R14
+R15
+Atb_architecture
+R4
+R5
+R1
+Z60 DEx4 work 11 datapath_tb 0 22 omfRD<R_kS5:ok_NhbAHh2
+l65
+L30
+V=@8[mF7^:[5jMSmKkC6T]1
+!s100 9;Ym_A5=Az0<d_MlmmmAN1
+R9
+32
+R20
+!i10b 1
+R21
+R58
+R59
+!i113 1
+R14
+R15
+Eread_decoder
+Z61 w1092744530
+R1
+R4
+R5
+R6
+Z62 8C:/Users/vivia/Documents/cleo2/Cleopatra/cleopatra_hdl/src/read_decoder.vhd
+Z63 FC:/Users/vivia/Documents/cleo2/Cleopatra/cleopatra_hdl/src/read_decoder.vhd
+l0
+L10
+VH??WKmHZT6NHSkW5ceGHg3
+!s100 hfU^cX7h8`=:RETB19R<]3
+R9
+32
+Z64 !s110 1615336264
+!i10b 1
+Z65 !s108 1615336264.000000
+Z66 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/vivia/Documents/cleo2/Cleopatra/cleopatra_hdl/src/read_decoder.vhd|
+Z67 !s107 C:/Users/vivia/Documents/cleo2/Cleopatra/cleopatra_hdl/src/read_decoder.vhd|
+!i113 1
+R14
+R15
+Aread_decoder
+R1
+R4
+R5
+R52
+l16
+L15
+VDZM9_1Io27=0;hljzMDPN0
+!s100 MIGnCiI??IlJ4[S07SShj2
+R9
+32
+R64
+!i10b 1
+R65
+R66
+R67
+!i113 1
+R14
+R15
+Ereg_clear
+Z68 w1112726410
+R1
+R4
+R5
+R6
+Z69 8C:/Users/vivia/Documents/cleo2/Cleopatra/cleopatra_hdl/src/reg.vhd
+Z70 FC:/Users/vivia/Documents/cleo2/Cleopatra/cleopatra_hdl/src/reg.vhd
+l0
+L9
+VPV5U^5lVF`QbbZ?mj?8c`3
+!s100 4IAaW3B>fO[=U]PBiJ<Y?3
+R9
+32
+R64
+!i10b 1
+R65
+Z71 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/vivia/Documents/cleo2/Cleopatra/cleopatra_hdl/src/reg.vhd|
+Z72 !s107 C:/Users/vivia/Documents/cleo2/Cleopatra/cleopatra_hdl/src/reg.vhd|
+!i113 1
+R14
+R15
+Areg_clear
+R1
+R4
+R5
+R54
+l15
+L14
+Vn>KhZEZj7Z[ZJHnRiN8Ub2
+!s100 HUb23^lIYj@`RKg2_QB[C1
+R9
+32
+R64
+!i10b 1
+R65
+R71
+R72
+!i113 1
+R14
+R15
+Ereg_clear_tb
+Z73 w1112894346
+R4
+R5
+R1
+R6
+Z74 8C:/Users/vivia/Documents/cleo2/Cleopatra/cleopatra_hdl/src/TestBench/reg_clear_TB.vhd
+Z75 FC:/Users/vivia/Documents/cleo2/Cleopatra/cleopatra_hdl/src/TestBench/reg_clear_TB.vhd
+l0
+L27
+V=Nz0>hA4jz`[Fa>@TV[jW1
+!s100 gcGBNzjV=jJKbK9bKOHA80
+R9
+32
+R20
+!i10b 1
+R21
+Z76 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/vivia/Documents/cleo2/Cleopatra/cleopatra_hdl/src/TestBench/reg_clear_TB.vhd|
+Z77 !s107 C:/Users/vivia/Documents/cleo2/Cleopatra/cleopatra_hdl/src/TestBench/reg_clear_TB.vhd|
+!i113 1
+R14
+R15
+Atb_architecture
+R4
+R5
+R1
+Z78 DEx4 work 12 reg_clear_tb 0 22 =Nz0>hA4jz`[Fa>@TV[jW1
+l51
+L30
+VELNR]G]jnM;mR15ZT;eS^1
+!s100 X3BX9W3H]WSSH8NQBo<983
+R9
+32
+R20
+!i10b 1
+R21
+R76
+R77
+!i113 1
+R14
+R15
+Estatus_flags
+Z79 w1092756238
+R1
+R4
+R5
+R6
+Z80 8C:/Users/vivia/Documents/cleo2/Cleopatra/cleopatra_hdl/src/status_flags.vhd
+Z81 FC:/Users/vivia/Documents/cleo2/Cleopatra/cleopatra_hdl/src/status_flags.vhd
+l0
+L17
+V8A3iXZZS;;_>_d0Z^H@e82
+!s100 <8cURzN817H;ZQE1iD0a]2
+R9
+32
+R64
+!i10b 1
+R65
+Z82 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/vivia/Documents/cleo2/Cleopatra/cleopatra_hdl/src/status_flags.vhd|
+Z83 !s107 C:/Users/vivia/Documents/cleo2/Cleopatra/cleopatra_hdl/src/status_flags.vhd|
+!i113 1
+R14
+R15
+Astatus_flags
+R1
+R4
+R5
+R51
+l24
+L23
+VCm[o=g6`P4C3LYJBAk9JN0
+!s100 O>JS<Nnnm@jNPklMEXnnC1
+R9
+32
+R64
+!i10b 1
+R65
+R82
+R83
+!i113 1
+R14
+R15
+Etb
+Z84 w1615328441
+R1
+R2
+R3
+R4
+R5
+R6
+Z85 8C:/Users/vivia/Documents/cleo2/Cleopatra/cleopatra_hdl/src/cleo_tb.vhd
+Z86 FC:/Users/vivia/Documents/cleo2/Cleopatra/cleopatra_hdl/src/cleo_tb.vhd
+l0
+L32
+VH:^iXfL@m93k]0eGd]jOg3
+!s100 2Z2oH7eWcNk41<iV2Q:^X2
+R9
+32
+!s110 1615336265
+!i10b 1
+R65
+!s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/vivia/Documents/cleo2/Cleopatra/cleopatra_hdl/src/cleo_tb.vhd|
+!s107 C:/Users/vivia/Documents/cleo2/Cleopatra/cleopatra_hdl/src/cleo_tb.vhd|
+!i113 1
+R14
+R15
+Atb
+R34
+R1
+R2
+R3
+R4
+R5
+DEx4 work 2 tb 0 22 H:^iXfL@m93k]0eGd]jOg3
+l42
+L35
+VPJf;Ua]B5QR>QhK>=@8gI0
+!s100 BM52cjQj5@XQ1lFV[MRo=3
+R9
+32
+!s110 1614300249
+!i10b 1
+!s108 1614300249.000000
+!s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/vivia/Documents/cleo2/Cleopatra/cleopatra_hdl/src/cleo_tb.vhd|
+!s107 C:/Users/vivia/Documents/cleo2/Cleopatra/cleopatra_hdl/src/cleo_tb.vhd|
+!i113 1
+R14
+R15
+Etb_hold
+Z87 w1092756274
+R1
+R2
+R3
+R4
+R5
+R6
+Z88 8C:/Users/vivia/Documents/cleo2/Cleopatra/cleopatra_hdl/src/cleo_tb_hold.vhd
+Z89 FC:/Users/vivia/Documents/cleo2/Cleopatra/cleopatra_hdl/src/cleo_tb_hold.vhd
+l0
+L18
+V@K4D`=T34ZGCLjhV2kGIa3
+!s100 eeAG5[K4<c8n3mN4dHV5e3
+R9
+32
+Z90 !s110 1614904375
+!i10b 1
+Z91 !s108 1614904375.000000
+Z92 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/vivia/Documents/cleo2/Cleopatra/cleopatra_hdl/src/cleo_tb_hold.vhd|
+Z93 !s107 C:/Users/vivia/Documents/cleo2/Cleopatra/cleopatra_hdl/src/cleo_tb_hold.vhd|
+!i113 1
+R14
+R15
+Atb_hold
+R34
+R1
+R2
+R3
+R4
+R5
+DEx4 work 7 tb_hold 0 22 @K4D`=T34ZGCLjhV2kGIa3
+l28
+L21
+V^RSh><VT4Co<5Ze?70_cl2
+!s100 =X3kV?26Q:`X1oZAo@2hS0
+R9
+32
+R90
+!i10b 1
+R91
+R92
+R93
+!i113 1
+R14
+R15
+Ctestbench_for_alu
+ealu_tb
+Z94 aTB_ARCHITECTURE
+R16
+DAx4 work 6 alu_tb 15 tb_architecture 22 e2a:GIk>mc<H<OC7no4YN3
+R2
+R3
+R4
+R5
+R1
+R24
+R17
+R6
+R18
+R19
+l0
+L84
+VB0kG=L7>kP1LGTj;B[50U1
+!s100 `Y4@W45M5R0GMG<b0VTKk3
+R9
+32
+R20
+!i10b 1
+R21
+R22
+R23
+!i113 1
+R14
+R15
+Ctestbench_for_control
+econtrol_tb
+R94
+R32
+DAx4 work 10 control_tb 15 tb_architecture 22 eeNmYUF0ZL^Qa_iTj^QOZ0
+R4
+R5
+R1
+R45
+R40
+R6
+R41
+R42
+l0
+L96
+VN]VMQX0:NfMT`:nTeUA`W3
+!s100 FVK00Z<H<YIB@T:Ci8GWN0
+R9
+32
+R20
+!i10b 1
+R21
+R43
+R44
+!i113 1
+R14
+R15
+Ctestbench_for_datapath
+edatapath_tb
+R94
+R33
+DAx4 work 11 datapath_tb 15 tb_architecture 22 =@8[mF7^:[5jMSmKkC6T]1
+R4
+R5
+R1
+R60
+R55
+R6
+R56
+R57
+l0
+L105
+V:=E<ZfSmZ;nG2JTch[<S33
+!s100 ^Kb=5on6?E>[8E:;6S4IV0
+R9
+32
+R20
+!i10b 1
+R21
+R58
+R59
+!i113 1
+R14
+R15
+Ctestbench_for_reg_clear
+ereg_clear_tb
+R94
+R54
+DAx4 work 12 reg_clear_tb 15 tb_architecture 22 ELNR]G]jnM;mR15ZT;eS^1
+R4
+R5
+R1
+R78
+R73
+R6
+R74
+R75
+l0
+L76
+V>UmVhlmIGe6K8<_Fmmk2j0
+!s100 ld55olQ7VfcVaVUd^ST112
+R9
+32
+R20
+!i10b 1
+R21
+R76
+R77
+!i113 1
+R14
+R15
+Ewrite_decoder
+Z95 w1092745436
+R1
+R4
+R5
+R6
+Z96 8C:/Users/vivia/Documents/cleo2/Cleopatra/cleopatra_hdl/src/write_decoder.vhd
+Z97 FC:/Users/vivia/Documents/cleo2/Cleopatra/cleopatra_hdl/src/write_decoder.vhd
+l0
+L15
+V7:;dez5z=jX^2V8BLW5Sf1
+!s100 iMjMlHiE9OWm^:L56Mcag2
+R9
+32
+R64
+!i10b 1
+R65
+Z98 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/vivia/Documents/cleo2/Cleopatra/cleopatra_hdl/src/write_decoder.vhd|
+Z99 !s107 C:/Users/vivia/Documents/cleo2/Cleopatra/cleopatra_hdl/src/write_decoder.vhd|
+!i113 1
+R14
+R15
+Awrite_decoder
+R1
+R4
+R5
+R53
+l21
+L20
+VV1;1c1Hk[bMUN4b`^GcRc0
+!s100 mgn<BXmdh9Fh0J]1C?<Jo2
+R9
+32
+R64
+!i10b 1
+R65
+R98
+R99
+!i113 1
+R14
+R15

@@ -1,0 +1,17 @@
+[Files List]
+D:\Program Files\Aldec\Active-HDL 6.3\VLIB\STD/src/standard.vhd=S
+D:\Program Files\Aldec\Active-HDL 6.3\VLIB\IEEE/src/stdlogic.vhd=S
+D:\Program Files\Aldec\Active-HDL 6.3\VLIB\STD/src/textio.vhd=S
+D:\Program Files\Aldec\Active-HDL 6.3\VLIB\STD/src/textio_b.vhd=S
+D:\Program Files\Aldec\Active-HDL 6.3\VLIB\IEEE/src/arith.vhd=S
+D:\Program Files\Aldec\Active-HDL 6.3\VLIB\IEEE/src/unsigned.vhd=S
+Z:\mynt\Work\cleopatra/src/cleo_pck.vhd=S
+Z:\mynt\Work\cleopatra/src/status_flags.vhd=S
+Z:\mynt\Work\cleopatra/src/alu.vhd=S
+Z:\mynt\Work\cleopatra/src/read_decoder.vhd=S
+Z:\mynt\Work\cleopatra/src/write_decoder.vhd=S
+Z:\mynt\Work\cleopatra/src/reg.vhd=S
+Z:\mynt\Work\cleopatra/src/control_unit.vhd=S
+Z:\mynt\Work\cleopatra/src/datapath.vhd=S
+Z:\mynt\Work\cleopatra/src/cleopatra.vhd=S
+Z:\mynt\Work\cleopatra/src/cleo_tb.vhd=S

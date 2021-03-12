@@ -1,0 +1,15 @@
+.\src\cleo_pck.vhd
+.\src\alu.vhd
+.\src\control_unit.vhd
+.\src\read_decoder.vhd
+.\src\reg.vhd
+.\src\write_decoder.vhd
+.\src\status_flags.vhd
+.\src\datapath.vhd
+.\src\cleopatra.vhd
+.\src\cleo_tb_hold.vhd
+.\src\cleo_tb.vhd
+.\src\TestBench\alu_TB.vhd
+.\src\TestBench\reg_clear_TB.vhd
+.\src\TestBench\control_TB.vhd
+.\src\TestBench\datapath_TB.vhd

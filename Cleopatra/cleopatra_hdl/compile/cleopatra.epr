@@ -1,0 +1,16 @@
+"z:\mynt\Work\cleopatra\src\cleo_pck.vhd" cleopatra 1 0 13134854
+"z:\mynt\Work\cleopatra\src\alu.vhd" cleopatra 1 0 524289
+"z:\mynt\Work\cleopatra\src\control_unit.vhd" cleopatra 1 0 13131968
+"z:\mynt\Work\cleopatra\src\read_decoder.vhd" cleopatra 1 0 0
+"z:\mynt\Work\cleopatra\src\reg.vhd" cleopatra 1 0 0
+"z:\mynt\Work\cleopatra\src\write_decoder.vhd" cleopatra 1 0 0
+"z:\mynt\Work\cleopatra\src\status_flags.vhd" cleopatra 1 0 0
+"z:\mynt\Work\cleopatra\src\datapath.vhd" cleopatra 1 0 0
+"z:\mynt\Work\cleopatra\src\cleopatra.vhd" cleopatra 1 0 0
+"z:\mynt\Work\cleopatra\src\cleo_tb_hold.vhd" cleopatra 1 0 0
+"z:\mynt\Work\cleopatra\src\cleo_tb.vhd" cleopatra 1 0 0
+"z:\mynt\Work\cleopatra\src\TestBench\alu_TB.vhd" cleopatra 1 0 0
+"z:\mynt\Work\cleopatra\src\TestBench\reg_clear_TB.vhd" cleopatra 1 0 0
+"z:\mynt\Work\cleopatra\src\TestBench\control_TB.vhd" cleopatra 1 0 0
+"z:\mynt\Work\cleopatra\src\TestBench\datapath_TB.vhd" cleopatra 1 0 0
+. . 0 0 0

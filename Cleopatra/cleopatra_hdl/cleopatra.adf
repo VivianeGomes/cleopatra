@@ -1,0 +1,109 @@
+[Project]
+Current Flow=Multivendor
+VCS=0
+version=1
+Current Config=compile
+
+[Configurations]
+compile=cleopatra
+
+[Library]
+cleopatra=.\cleopatra.lib
+
+[$LibMap$]
+cleopatra=.
+Active_lib=VIRTEX2
+xilinxun=VIRTEX2
+UnlinkedDesignLibrary=VIRTEX2
+DESIGNS=VIRTEX2
+
+[Settings]
+FLOW_TYPE=HDL
+LANGUAGE=VHDL
+SYNTH_TOOL=MV_XST5_VHDL
+IMPL_TOOL=MV_ISE51
+FAMILY=Xilinx51 VIRTEX2
+FLOWTOOLS=IMPL_WITH_SYNTH
+FUNC_LIB=cleopatra
+REFRESH_FLOW=1
+
+[IMPLEMENTATION]
+UCF=
+
+[SIM.FUNC]
+FJD=FunctionalSimJob1
+FST=-all
+OPTION=0
+SERVERFARM_INCLUDE_INPUT_FILES=*.*
+SERVERFARM_EXCLUDE_INPUT_FILES=log\*.*:synthesis\*.*:implement\*.*
+TOPLEVEL=tb
+WAVEFORMS=
+DEFWAVE=0
+
+[HierarchyViewer]
+SortInfo=u
+HierarchyInformation=tb|tb|0 
+ShowHide=ShowTopLevel
+Selected=
+
+[Groups]
+TestBench=1
+
+[Files]
+/Leiame.txt=-1
+/cleo_pck.vhd=-1
+/alu.vhd=-1
+/control_unit.vhd=-1
+/read_decoder.vhd=-1
+/reg.vhd=-1
+/write_decoder.vhd=-1
+/status_flags.vhd=-1
+/datapath.vhd=-1
+/cleopatra.vhd=-1
+/cleo_tb_hold.vhd=-1
+/cleo_tb.vhd=-1
+/testa.txt=-1
+/Onda_testa_txt.awf=-1
+/testa_hold.txt=-1
+/Onda_testa_hold1_txt.awf=-1
+/Onda_testa_hold2_txt.awf=-1
+TestBench/alu_TB.vhd=-1
+TestBench/reg_clear_TB.vhd=-1
+TestBench/control_TB.vhd=-1
+TestBench/datapath_TB.vhd=-1
+TestBench/alu_TB_runtest.do=-1
+TestBench/reg_clear_TB_runtest.do=-1
+TestBench/control_TB_runtest.do=-1
+TestBench/datapath_TB_runtest.do=-1
+TestBench/Onda_testa_datapath.awf=-1
+TestBench/Onda_testa_control.awf=-1
+
+[Files.Data]
+.\src\Leiame.txt=Text File
+.\src\cleo_pck.vhd=VHDL Source Code
+.\src\alu.vhd=VHDL Source Code
+.\src\control_unit.vhd=VHDL Source Code
+.\src\read_decoder.vhd=VHDL Source Code
+.\src\reg.vhd=VHDL Source Code
+.\src\write_decoder.vhd=VHDL Source Code
+.\src\status_flags.vhd=VHDL Source Code
+.\src\datapath.vhd=VHDL Source Code
+.\src\cleopatra.vhd=VHDL Source Code
+.\src\cleo_tb_hold.vhd=VHDL Source Code
+.\src\cleo_tb.vhd=VHDL Source Code
+.\src\testa.txt=Text File
+.\src\Onda_testa_txt.awf=Waveform File
+.\src\testa_hold.txt=Text File
+.\src\Onda_testa_hold1_txt.awf=Waveform File
+.\src\Onda_testa_hold2_txt.awf=Waveform File
+.\src\TestBench\alu_TB.vhd=VHDL Test Bench
+.\src\TestBench\reg_clear_TB.vhd=VHDL Test Bench
+.\src\TestBench\control_TB.vhd=VHDL Test Bench
+.\src\TestBench\datapath_TB.vhd=VHDL Test Bench
+.\src\TestBench\alu_TB_runtest.do=Macro
+.\src\TestBench\reg_clear_TB_runtest.do=Macro
+.\src\TestBench\control_TB_runtest.do=Macro
+.\src\TestBench\datapath_TB_runtest.do=Macro
+.\src\TestBench\Onda_testa_datapath.awf=Waveform File
+.\src\TestBench\Onda_testa_control.awf=Waveform File
+

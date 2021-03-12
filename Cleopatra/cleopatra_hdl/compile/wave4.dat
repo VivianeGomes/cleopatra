@@ -1,0 +1,30 @@
+$WAVE4TIMED
+$RESOLUTION 1000
+I 1 "e#9#std_logicc9 UX01ZWLH-"
+$S 1 1 reset
+$S 5 1 clock
+$S 9 1 hold
+$S +4 1 ce
+$S +4 1 rw
+I 2 "a#12#internal_bus1 ricd7 0 e#9#std_logicc9 UX01ZWLH-"
+$BUS S 53 2 8 address
+$SC 21-49/4
+$BUS S 86 2 8 datain
+$SC 54-82/4
+$BUS S +37 2 8 dataout
+$SC 87-+28/4
+$BUS S +37 2 8 "cpu/dp/pc"
+$SC 120-+28/4
+$BUS OUT +37 2 8 7 0 ir
+$SC 153-+28/4
+$BUS S +37 2 8 7 1 md
+$SC 186-+28/4
+$BUS S +37 2 8 7 0 ac
+$SC 219-+28/4
+$BUS S +37 2 8 7 0 rs
+$SC 252-+28/4
+$OUT +5 1 7 0 n
+$OUT +4 1 7 0 z
+$OUT +4 1 7 0 c
+$OUT +4 1 7 0 v
+$ENDWAVE

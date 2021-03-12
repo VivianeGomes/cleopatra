@@ -1,0 +1,14 @@
+[Version]
+Version=5.2
+[Designs]
+cleopatra=cleopatra.adf
+[Settings]
+Active=cleopatra
+[Expand]
+cleopatra=1
+[Browser]
+sort=order
+mode=none
+[Order]
+order=1
+macro=
